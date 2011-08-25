@@ -1,0 +1,15 @@
+{ "name": "nodejitsu-client"
+, "version": "0.0.0"
+, "description": "the jitsu API client pulled out."
+, "homepage": "http://github.com/dominictarr/nodejitsu-client"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/nodejitsu-client.git" }
+, "main": "./lib/nodejitsu-client.js"
+, "dependencies": {
+    "eyes": "0.1.x",
+    "request": "1.9.x",
+    "winston": "0.3.x"
+  }
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+}
